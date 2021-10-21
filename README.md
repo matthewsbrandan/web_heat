@@ -1,6 +1,6 @@
 # NLW 7 HEAT
-  [home](./src/assets/screenshots/home.png)
-  [home-logged](./src/assets/screenshots/home-logged.png)
+  ![home](./src/assets/screenshots/home.png)
+  ![home-logged](./src/assets/screenshots/home-logged.png)
   - Vite podemos dizer que é um concorrente do webpack, e ele nos trás algumas vantagens de performance se comparado ao webpack.
   - Para criar um projeto react com ele basta executar o código a seguir:
   ```tsx
