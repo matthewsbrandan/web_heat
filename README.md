@@ -76,6 +76,5 @@
   ```
   - Outra coisa interessante nessa parte do código é o conceito de fila de mensagens. Cada mensagem nova que vai sendo adicionada vai entrando na última posição da fila. E dentro do componente, vamos pegando uma mensagem de cada vez a cada 3s e excluindo ela da fila.
 
-#protagonistas
-
-[NOTION](https://alive-slouch-54f.notion.site/REACTJS-STAGE-2-83a906d847da4460b0622eafc6fe6d00)
+  - #protagonistas
+  - [NOTION](https://alive-slouch-54f.notion.site/REACTJS-STAGE-2-83a906d847da4460b0622eafc6fe6d00)
